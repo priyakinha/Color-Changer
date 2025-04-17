@@ -13,11 +13,14 @@ A simple and interactive color changer project built using HTML, CSS, and JavaSc
 1.Clone the repository: git clone https://github.com/priyakinha/Color-Changer.git
 
 2. Open index.html in your browser
-3. 
-4. Click any color box
+
+3. Click any color box
+
 
 ## Technologies Used
 
 HTML5
+
 CSS3
+
 JavaScript (Vanilla)
